@@ -16,7 +16,7 @@ This skill is designed for cases where one OpenClaw installation needs to genera
 Option A, clone directly into the target workspace skills directory:
 
 ```bash
-git clone <REPO_URL> ~/.openclaw/workspace/skills/agent-bench-bootstrap
+git clone https://github.com/fruteroclub/agent-bench-bootstrap.git ~/.openclaw/workspace/skills/agent-bench-bootstrap
 ```
 
 Then start a new OpenClaw session in that installation. The skill will be available to the main agent.
